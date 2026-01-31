@@ -5,8 +5,7 @@ movie
 
 # VS Code
 .vscode/*
-!.vscode/c_cpp_properties.json
-!.vscode/settings.json
+
 
 # OS files
 .DS_Store
