@@ -162,4 +162,3 @@ This behavior reflects **defensive programming and real-world user scenarios**.
 * All datasets are loaded at runtime from CSV files
 * Invalid or missing data rows are safely ignored
 * No IDE-specific or OS-specific files are required
-* Designed to be **resume-ready and evaluatable**
