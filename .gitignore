@@ -4,8 +4,7 @@ movie
 *.exe
 
 # VS Code
-.vscode/*
-
+.vscode/
 
 # OS files
 .DS_Store
