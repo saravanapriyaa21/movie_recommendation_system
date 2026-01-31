@@ -1,0 +1,16 @@
+# C++ binaries
+movie
+*.out
+*.exe
+
+# VS Code
+.vscode/*
+!.vscode/c_cpp_properties.json
+!.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

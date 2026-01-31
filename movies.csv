@@ -1,0 +1,501 @@
+movie_id,movie_name,genre,imdb,language,rating,release_date
+5,"Four Rooms","Crime, Comedy",NULL,en,6.5,1995-12-09
+6,"Judgment Night","Action, Thriller, Crime",NULL,en,6.4,1993-10-15
+11,"Star Wars","Adventure, Action, Science Fiction",NULL,en,8.1,1977-05-25
+13,"Forrest Gump","Comedy, Drama, Romance",NULL,en,8.2,1994-07-06
+63,"Twelve Monkeys","Science Fiction, Thriller, Mystery",NULL,en,7.4,1995-12-29
+76,"Before Sunrise","Drama, Romance",NULL,en,7.7,1995-01-27
+101,"Leon: The Professional","Thriller, Crime, Drama",NULL,fr,8.2,1994-09-14
+103,"Taxi Driver","Crime, Drama",NULL,en,8.1,1976-02-07
+108,"Three Colors: Blue","Drama, Music, Mystery",NULL,fr,7.7,1993-01-10
+109,"Three Colors: White","Comedy, Drama, Mystery",NULL,fr,7.3,1994-01-26
+110,"Three Colors: Red","Drama, Mystery, Romance",NULL,fr,7.8,1994-05-27
+178,"Blown Away","Drama, Action, Thriller",NULL,en,6,1994-07-01
+193,"Star Trek: Generations","Science Fiction, Action, Adventure, Thriller",NULL,en,6.4,1994-11-17
+197,Braveheart,"Action, Drama, History, War",NULL,en,7.7,1995-05-24
+236,"Muriel's Wedding","Drama, Comedy, Romance",NULL,en,6.9,1994-09-29
+241,"Natural Born Killers","Crime, Thriller, Drama",NULL,en,6.9,1994-08-25
+278,"The Shawshank Redemption","Drama, Crime",NULL,en,8.5,1994-09-23
+281,"Strange Days","Crime, Drama, Science Fiction, Thriller",NULL,en,6.8,1995-10-13
+306,"Beverly Hills Cop III","Action, Comedy, Crime",NULL,en,5.5,1994-05-24
+315,"Faster, Pussycat! Kill! Kill!","Action, Crime",NULL,en,6.5,1965-08-06
+329,"Jurassic Park","Adventure, Science Fiction",NULL,en,7.6,1993-06-11
+397,"French Kiss","Comedy, Romance",NULL,en,6.2,1995-05-05
+400,"Things to Do in Denver When You're Dead","Drama, Crime",NULL,en,6.7,1995-12-01
+406,"La Haine",Drama,NULL,fr,7.9,1995-05-31
+414,"Batman Forever","Action, Crime, Fantasy",NULL,en,5.2,1995-06-16
+451,"Leaving Las Vegas","Drama, Romance",NULL,en,7.1,1995-10-27
+507,"Killing Zoe","Action, Crime, Drama, Thriller",NULL,en,6.1,1993-10-01
+522,"Ed Wood","Comedy, Drama, History",NULL,en,7.3,1994-09-27
+524,Casino,"Drama, Crime",NULL,en,7.8,1995-11-22
+527,"Once Were Warriors",Drama,NULL,en,7.6,1994-09-02
+568,"Apollo 13",Drama,NULL,en,7.3,1995-06-30
+577,"To Die For","Fantasy, Drama, Comedy, Thriller",NULL,en,6.7,1995-05-20
+628,"Interview with the Vampire","Horror, Romance",NULL,en,7.2,1994-11-11
+629,"The Usual Suspects","Drama, Crime, Thriller",NULL,en,8.1,1995-07-19
+649,"Belle de Jour","Drama, Romance",NULL,fr,7.3,1967-05-24
+680,"Pulp Fiction","Thriller, Crime",NULL,en,8.3,1994-09-10
+687,"Dead Man Walking",Drama,NULL,en,7.3,1995-12-29
+688,"The Bridges of Madison County","Drama, Romance",NULL,en,7.3,1995-05-28
+710,GoldenEye,"Adventure, Action, Thriller",NULL,en,6.6,1995-11-16
+712,"Four Weddings and a Funeral","Comedy, Drama, Romance",NULL,en,6.6,1994-03-09
+755,"From Dusk Till Dawn","Horror, Action, Thriller, Crime",NULL,en,6.9,1996-01-19
+788,"Mrs. Doubtfire","Comedy, Drama, Family",NULL,en,7,1993-11-24
+807,Se7en,"Crime, Mystery, Thriller",NULL,en,8.1,1995-09-22
+854,"The Mask","Romance, Comedy, Crime, Fantasy",NULL,en,6.6,1994-07-29
+862,"Toy Story","Animation, Comedy, Family",NULL,en,7.7,1995-10-30
+880,"Antonia's Line","Drama, Comedy",NULL,nl,7.2,1995-09-12
+888,"The Flintstones","Fantasy, Comedy, Family",NULL,en,5,1994-05-26
+902,"The City of Lost Children","Fantasy, Science Fiction, Adventure",NULL,fr,7.6,1995-05-16
+949,Heat,"Action, Crime, Drama, Thriller",NULL,en,7.7,1995-12-15
+1024,"Heavenly Creatures","Drama, Fantasy",NULL,en,6.9,1994-09-02
+1408,"Cutthroat Island","Action, Adventure",NULL,en,5.7,1995-12-22
+1413,"M. Butterfly","Drama, Romance",NULL,en,6.6,1993-09-09
+1572,"Die Hard: With a Vengeance","Action, Thriller",NULL,en,6.9,1995-05-19
+1587,"What's Eating Gilbert Grape","Romance, Drama",NULL,en,7.5,1993-12-17
+1607,"A Bronx Tale","Drama, Crime",NULL,en,7.4,1993-09-14
+1634,"Free Willy","Family, Adventure",NULL,en,6,1993-07-16
+1637,Speed,"Action, Adventure, Crime",NULL,en,6.8,1994-06-09
+1642,"The Net","Crime, Drama, Mystery, Thriller, Action",NULL,en,5.6,1995-07-28
+1689,"Little Buddha","Drama, History",NULL,en,6,1993-12-01
+1710,Copycat,"Drama, Thriller",NULL,en,6.5,1995-10-27
+1775,"Canadian Bacon","Action, Comedy",NULL,en,5.9,1995-06-08
+1873,"Beyond Rangoon","Drama, Thriller",NULL,en,6.4,1995-05-24
+1909,"Don Juan DeMarco","Romance, Drama, Comedy",NULL,en,6.3,1994-10-01
+1945,Nell,"Drama, Thriller",NULL,en,6.1,1994-12-23
+2019,"Hard Target","Action, Adventure, Crime, Thriller",NULL,en,6.1,1993-08-20
+2045,Unforgettable,"Drama, Mystery, Science Fiction, Thriller",NULL,en,5.3,1996-02-23
+2054,"Mr. Holland's Opus","Music, Drama, Family",NULL,en,6.9,1995-12-29
+2064,"While You Were Sleeping","Comedy, Drama, Romance",NULL,en,6.5,1995-04-21
+2074,"Flirting with Disaster","Comedy, Romance",NULL,en,6.3,1996-03-22
+2086,"Nick of Time","Crime, Drama, Thriller",NULL,en,6.1,1995-11-22
+2087,"The Getaway","Drama, Action, Thriller",NULL,en,5.4,1994-02-11
+2124,"Color of Night","Drama, Mystery, Romance, Thriller",NULL,en,5.4,1994-08-19
+2164,Stargate,"Action, Adventure, Science Fiction",NULL,en,6.8,1994-10-27
+2246,Malice,"Drama, Crime",NULL,en,5.9,1993-09-29
+2259,"The House of the Spirits","Romance, Drama",NULL,en,6.7,1993-10-19
+2292,Clerks,Comedy,NULL,en,7.4,1994-09-13
+2293,Mallrats,"Romance, Comedy",NULL,en,6.8,1995-10-20
+2307,"A Pyromaniac's Love Story","Comedy, Drama, Romance",NULL,en,7,1995-04-28
+2320,"Executive Decision","Action, Adventure, Drama, Thriller",NULL,en,5.8,1996-03-15
+2625,"Mr. Jones","Drama, Romance",NULL,en,5.9,1993-10-08
+2636,"The Specialist","Action, Thriller",NULL,en,5.5,1994-10-07
+2654,"In the Mouth of Madness","Horror, Mystery, Thriller",NULL,en,7.1,1994-12-12
+2758,"Addams Family Values","Comedy, Family, Fantasy",NULL,en,6.5,1993-11-19
+2759,"The Adventures of Priscilla, Queen of the Desert","Drama, Comedy",NULL,en,7.2,1994-05-31
+2788,"Reality Bites",Drama,NULL,en,6.5,1994-02-18
+3036,"Mary Shelley's Frankenstein","Drama, Horror, Science Fiction, Romance",NULL,en,6.1,1994-11-04
+3049,"Ace Ventura: Pet Detective","Comedy, Mystery",NULL,en,6.4,1994-02-04
+3512,"Under Siege 2: Dark Territory","Action, Thriller",NULL,en,5.6,1995-07-13
+3586,Prêt-à-Porter,"Drama, Comedy",NULL,en,5.3,1994-12-23
+4476,"Legends of the Fall","Adventure, Drama, Romance, War",NULL,en,7.2,1994-12-16
+4482,"French Twist","Comedy, Romance",NULL,fr,6,1995-02-08
+4584,"Sense and Sensibility","Drama, Romance",NULL,en,7.2,1995-12-13
+4722,"Body Snatchers","Horror, Science Fiction, Thriller",NULL,en,5.8,1993-06-09
+4916,"Guilty as Sin","Drama, Thriller",NULL,en,5.6,1993-06-04
+4954,"Drop Zone","Action, Adventure, Thriller",NULL,en,5.1,1994-12-08
+5503,"The Fugitive","Adventure, Action, Thriller, Crime, Mystery",NULL,en,7.2,1993-08-06
+5757,"Man of the Year",Comedy,NULL,en,3.8,1995-09-15
+5879,"In the Realm of the Senses","Drama, Romance",NULL,ja,6.5,1976-05-15
+5894,"Blue in the Face",Comedy,NULL,en,6.8,1995-09-15
+5967,"The Umbrellas of Cherbourg","Drama, Romance",NULL,fr,7.6,1964-02-19
+6071,"Kiss of Death","Action, Crime, Drama, Thriller",NULL,en,5.7,1995-04-21
+6075,"Carlito's Way","Action, Crime, Drama, Thriller",NULL,en,7.7,1993-11-10
+6280,Junior,"Comedy, Family, Romance",NULL,en,4.7,1994-11-22
+6520,"First Knight","Action, Adventure, Drama, Romance",NULL,en,5.9,1995-07-07
+6715,"The Cure","Drama, Family",NULL,en,7.2,1995-04-21
+6950,Outbreak,"Action, Drama, Science Fiction, Thriller",NULL,en,6.4,1995-03-10
+7984,"In the Name of the Father",Drama,NULL,en,7.6,1993-12-12
+8011,"Highlander: The Final Dimension","Action, Fantasy, Science Fiction",NULL,en,4.5,1994-11-29
+8012,"Get Shorty","Comedy, Thriller, Crime",NULL,en,6.4,1995-10-20
+8068,Desperado,"Thriller, Action, Crime",NULL,en,6.8,1995-08-25
+8391,"When Night Is Falling","Drama, Romance",NULL,en,5.9,1995-05-05
+8438,"Murder in the First","Crime, Drama",NULL,en,6.9,1995-01-20
+8447,"Angels and Insects","Drama, Romance",NULL,en,6.3,1995-09-10
+8467,"Dumb and Dumber",Comedy,NULL,en,6.5,1994-12-16
+8512,"Devil in a Blue Dress","Drama, Mystery, Thriller",NULL,en,6.3,1995-09-15
+8587,"The Lion King","Family, Animation, Drama",NULL,en,8,1994-06-23
+8831,Timecop,"Thriller, Science Fiction, Action, Crime",NULL,en,5.5,1994-09-15
+8839,Casper,"Fantasy, Comedy, Family",NULL,en,6,1995-05-26
+8844,Jumanji,"Adventure, Fantasy, Family",NULL,en,6.9,1995-12-15
+8963,"Crimson Tide","Action, Thriller, Drama",NULL,en,7,1995-05-12
+8973,"Lord of Illusions","Mystery, Horror, Thriller",NULL,en,5.9,1995-08-25
+8984,Disclosure,"Drama, Thriller, Crime, Mystery, Romance",NULL,en,5.9,1994-12-09
+8986,"Milk Money","Comedy, Romance",NULL,en,5.6,1994-08-31
+8987,"The River Wild","Action, Adventure, Crime, Thriller",NULL,en,6.1,1994-09-30
+9024,"For Love or Money","Comedy, Romance",NULL,en,5.7,1993-10-01
+9058,"Only You","Comedy, Drama, Romance",NULL,en,6.4,1994-09-17
+9059,"Tales from the Crypt: Demon Knight","Horror, Comedy, Thriller",NULL,en,6.7,1995-01-13
+9061,"Just Cause","Action, Drama, Mystery, Thriller",NULL,en,6,1995-02-17
+9067,"Tank Girl","Action, Comedy, Fantasy, Science Fiction",NULL,en,5.5,1995-03-31
+9070,"Mighty Morphin Power Rangers: The Movie","Action, Adventure, Science Fiction, Family, Fantasy",NULL,en,5.2,1995-06-30
+9071,"Living in Oblivion","Drama, Comedy",NULL,en,7.2,1995-01-20
+9073,"Free Willy 2 - The Adventure Home",Adventure,NULL,en,5.5,1995-07-19
+9087,"The American President","Comedy, Drama, Romance",NULL,en,6.5,1995-11-17
+9089,"Home for the Holidays","Comedy, Drama, Romance",NULL,en,6.3,1995-11-02
+9090,"To Wong Foo, Thanks for Everything! Julie Newmar",Comedy,NULL,en,6.3,1995-09-07
+9091,"Sudden Death","Action, Adventure, Thriller",NULL,en,5.5,1995-12-22
+9095,"Mary Reilly","Drama, Horror, Thriller, Romance",NULL,en,5.7,1996-02-23
+9101,"Down Periscope",Comedy,NULL,en,5.6,1996-03-01
+9102,Screamers,"Horror, Science Fiction",NULL,en,6.1,1995-09-08
+9208,"Broken Arrow","Action, Adventure, Drama, Thriller",NULL,en,5.7,1996-02-09
+9255,"Hot Shots! Part Deux","Action, Comedy, War",NULL,en,6.2,1993-05-21
+9263,"Now and Then","Comedy, Drama, Family",NULL,en,6.6,1995-10-20
+9271,Virtuosity,"Action, Crime, Science Fiction, Thriller",NULL,en,5.4,1995-08-04
+9273,"Ace Ventura: When Nature Calls","Crime, Comedy, Adventure",NULL,en,6.1,1995-11-10
+9283,"Beautiful Girls","Comedy, Drama, Romance",NULL,en,6.6,1996-02-09
+9302,"Up Close & Personal","Drama, Romance",NULL,en,5.9,1996-03-01
+9312,"Mortal Kombat","Action, Fantasy",NULL,en,5.4,1995-08-18
+9331,"Clear and Present Danger","Action, Drama, Thriller",NULL,en,6.4,1994-08-03
+9344,Kids,"Drama, Crime",NULL,en,6.8,1995-07-28
+9348,Species,"Science Fiction, Horror, Action",NULL,en,5.5,1995-07-07
+9350,Cliffhanger,"Action, Adventure, Thriller",NULL,en,6.1,1993-05-28
+9359,Maverick,"Action, Adventure, Comedy, Drama, Western",NULL,en,6.6,1994-05-20
+9382,"Boys on the Side","Comedy, Drama",NULL,en,6.3,1995-02-03
+9386,"In the Line of Fire","Action, Drama, Thriller, Crime, Mystery",NULL,en,6.8,1993-07-08
+9409,"Another Stakeout","Action, Comedy",NULL,en,4.9,1993-07-22
+9482,"Judge Dredd","Science Fiction",NULL,en,5.4,1995-06-30
+9495,"The Crow","Fantasy, Action, Thriller",NULL,en,7.3,1994-05-11
+9516,"Menace II Society","Drama, Action, Crime",NULL,en,7.2,1993-05-26
+9536,Bio-Dome,Comedy,NULL,en,4.4,1996-01-12
+9560,"A Walk in the Clouds","Drama, Romance",NULL,en,6.5,1995-08-11
+9571,"Dazed and Confused","Comedy, Drama",NULL,en,7.4,1993-09-24
+9587,"Little Women","Drama, Romance",NULL,en,7,1994-12-21
+9593,"Last Action Hero","Adventure, Fantasy, Action, Comedy, Family",NULL,en,6.1,1993-06-18
+9598,Babe,"Fantasy, Drama, Comedy, Family",NULL,en,6,1995-07-18
+9603,Clueless,"Comedy, Drama, Romance",NULL,en,6.9,1995-07-19
+9612,Coneheads,"Comedy, Science Fiction, Family",NULL,en,4.8,1993-07-23
+9614,"Happy Gilmore",Comedy,NULL,en,6.5,1996-02-16
+9623,"The Juror","Drama, Thriller",NULL,en,5.5,1996-02-02
+9691,Assassins,"Action, Adventure, Crime, Thriller",NULL,en,6,1995-10-06
+9737,"Bad Boys","Action, Comedy, Crime, Thriller",NULL,en,6.5,1995-04-07
+9739,"Demolition Man","Crime, Action, Science Fiction",NULL,en,6.4,1993-10-08
+9804,Waterworld,"Adventure, Action",NULL,en,5.9,1995-07-28
+9886,"Johnny Mnemonic","Adventure, Action, Drama, Science Fiction, Thriller",NULL,en,5.5,1995-05-26
+9905,"Shallow Grave","Crime, Thriller",NULL,en,7,1994-12-22
+9909,"Dangerous Minds","Drama, Crime",NULL,en,6.4,1995-08-11
+10149,Smoke,"Comedy, Drama",NULL,en,7.2,1995-06-09
+10324,"If Lucy Fell","Comedy, Romance",NULL,en,5.4,1996-03-08
+10329,Congo,"Action, Adventure, Drama, Mystery, Science Fiction, Thriller",NULL,en,5,1995-06-09
+10395,Wolf,Fantasy,NULL,en,6,1994-06-17
+10427,"Red Rock West","Crime, Drama, Thriller",NULL,en,6.4,1993-07-08
+10428,Hackers,"Action, Crime, Thriller, Drama",NULL,en,6.2,1995-09-14
+10436,"The Age of Innocence","Drama, Romance",NULL,en,7,1993-09-17
+10440,"Manhattan Murder Mystery","Comedy, Mystery",NULL,en,7.1,1993-08-18
+10443,Fearless,Drama,NULL,en,6.8,1993-10-15
+10447,"No Escape","Action, Drama, Science Fiction, Thriller",NULL,en,6.1,1994-04-29
+10449,"When a Man Loves a Woman","Drama, Romance",NULL,en,6,1994-04-29
+10451,"Eat Drink Man Woman","Comedy, Drama, Romance",NULL,zh,7.5,1994-08-03
+10452,"Queen Margot","Drama, History",NULL,fr,7,1994-05-13
+10464,"Corrina, Corrina","Comedy, Drama, Family, Romance",NULL,en,6.4,1994-08-12
+10474,"The Basketball Diaries","Drama, Crime",NULL,en,7.2,1995-04-21
+10497,"Bitter Moon","Thriller, Drama, Romance",NULL,en,7,1992-09-02
+10502,"The Man without a Face",Drama,NULL,en,6.2,1993-08-25
+10510,"Miracle on 34th Street","Fantasy, Drama, Family",NULL,en,6.4,1994-11-18
+10525,"Forget Paris","Comedy, Drama, Romance",NULL,en,6.1,1995-05-19
+10530,Pocahontas,"Adventure, Animation, Drama, Family",NULL,en,6.7,1995-06-14
+10531,"Death and the Maiden","Drama, Thriller, Mystery",NULL,en,7.1,1994-05-04
+10533,"The Scarlet Letter","Drama, History, Romance",NULL,en,5.5,1995-10-13
+10534,"White Squall","Action, Drama",NULL,en,6.3,1996-02-02
+10607,"Don't Be a Menace to South Central While Drinking Your Juice in the Hood",Comedy,NULL,en,6.2,1996-01-12
+10612,"The Englishman Who Went Up a Hill But Came Down a Mountain","Drama, Comedy, Romance",NULL,en,6.1,1995-05-12
+10634,Friday,Comedy,NULL,en,7,1995-04-26
+10660,"It Could Happen to You","Comedy, Drama, Romance",NULL,en,6.1,1994-07-29
+10714,"The Jungle Book","Adventure, Drama, Family",NULL,en,5.9,1994-12-23
+10731,"The Client","Drama, Thriller, Crime, Mystery",NULL,en,6.4,1994-07-20
+10802,Showgirls,Drama,NULL,en,4.9,1995-09-22
+10858,Nixon,"History, Drama",NULL,en,7.1,1995-12-22
+10874,"Muppet Treasure Island","Action, Comedy, Music, Family, Adventure",NULL,en,6.5,1996-02-16
+10879,"I Love Trouble","Action, Comedy, Romance",NULL,en,5.3,1994-06-29
+10909,Kalifornia,"Thriller, Crime",NULL,en,6.5,1993-09-01
+10954,Farinelli,"History, Drama",NULL,fr,5.9,1994-12-07
+10997,"Farewell My Concubine",Drama,NULL,zh,7.8,1993-09-16
+11000,"The Birdcage",Comedy,NULL,en,6.7,1996-03-08
+11008,"Major Payne","Adventure, Comedy, Family",NULL,en,6.1,1995-03-24
+11010,"The Postman","Comedy, Drama, Romance",NULL,it,7.6,1994-09-22
+11011,"Ri¢hie Ri¢h","Comedy, Family",NULL,en,5.4,1994-12-19
+11017,"Billy Madison",Comedy,NULL,en,6.2,1995-02-10
+11041,"The Beverly Hillbillies",Comedy,NULL,en,5,1993-10-15
+11062,"City Hall","Drama, Thriller",NULL,en,6,1996-02-16
+11066,Boomerang,"Comedy, Romance",NULL,en,5.4,1992-06-30
+11104,"Chungking Express","Drama, Comedy, Romance",NULL,cn,7.9,1994-07-14
+11231,"The Next Karate Kid",Adventure,NULL,en,4.8,1994-07-18
+11310,"City Slickers II: The Legend of Curly's Gold","Action, Comedy, Drama, Western",NULL,en,4.9,1994-06-10
+11318,"The Madness of King George","Comedy, Drama, History",NULL,en,6.7,1994-12-28
+11359,"The Indian in the Cupboard","Adventure, Family, Fantasy",NULL,en,5.9,1995-07-14
+11381,"Tommy Boy",Comedy,NULL,en,6.8,1995-03-31
+11382,"Bullets Over Broadway","Action, Comedy, Thriller",NULL,en,7,1994-10-14
+11395,"The Santa Clause","Fantasy, Drama, Comedy, Family",NULL,en,6.3,1994-11-10
+11443,"Dead Presidents","Action, Crime, Drama, History",NULL,en,6.6,1995-10-06
+11448,"Mighty Aphrodite","Comedy, Romance",NULL,en,6.7,1995-09-13
+11450,"Quiz Show","History, Drama",NULL,en,7.1,1994-09-16
+11472,"Nine Months",Comedy,NULL,en,5.5,1995-07-12
+11517,"Money Train","Action, Comedy, Crime",NULL,en,5.4,1995-11-21
+11525,"Lawnmower Man 2: Beyond Cyberspace","Action, Science Fiction",NULL,en,2.8,1996-01-12
+11566,Dave,Comedy,NULL,en,6.3,1993-05-07
+11593,"Nobody's Fool","Drama, Comedy",NULL,en,7,1994-12-23
+11596,"New Nightmare","Horror, Thriller, Mystery, Fantasy",NULL,en,6.4,1994-10-13
+11667,"Street Fighter","Action, Adventure, Thriller",NULL,en,4.1,1994-12-22
+11777,I.Q.,"Comedy, Drama, Romance",NULL,en,5.9,1994-12-24
+11780,"Rob Roy",Adventure,NULL,en,6.5,1995-04-13
+11853,"Bad Girls","Action, Adventure, Comedy, Drama, Western",NULL,en,4.6,1994-04-22
+11859,"Fair Game","Action, Thriller, Romance",NULL,en,4.1,1995-11-03
+11860,Sabrina,"Comedy, Romance",NULL,en,6.2,1995-12-15
+11861,"How To Make An American Quilt","Drama, Romance",NULL,en,6.5,1995-10-06
+11862,"Father of the Bride Part II",Comedy,NULL,en,5.7,1995-02-10
+11863,Jade,"Action, Thriller, Mystery, Romance",NULL,en,5.1,1995-10-13
+11907,"Nobody Loves Me","Drama, Comedy, Family",NULL,de,5.1,1994-11-07
+11929,"Dolores Claiborne","Crime, Drama, Mystery",NULL,en,7.1,1995-03-24
+11934,"The Hudsucker Proxy","Comedy, Drama",NULL,en,7.1,1994-03-11
+11971,"Much Ado About Nothing","Drama, Comedy, Romance",NULL,en,7.2,1993-05-07
+11980,"The Prophecy","Fantasy, Horror, Thriller",NULL,en,6.4,1995-09-01
+12106,"The Quick and the Dead","Action, Western",NULL,en,6.2,1995-02-09
+12110,"Dracula: Dead and Loving It","Comedy, Horror",NULL,en,5.7,1995-12-22
+12121,"Made in America",Comedy,NULL,en,5.3,1993-05-27
+12122,"Village of the Damned","Thriller, Horror, Science Fiction",NULL,en,5.6,1995-04-28
+12158,"Vampire in Brooklyn","Comedy, Horror, Romance",NULL,en,4.5,1995-10-26
+12160,"Wyatt Earp","Drama, Action, Western",NULL,en,6.5,1994-06-24
+12280,"The Paper","Comedy, Drama",NULL,en,6.1,1994-03-18
+12475,"In the Army Now",Comedy,NULL,en,4.7,1994-08-12
+12527,"Strawberry and Chocolate","Comedy, Drama",NULL,es,7.1,1993-01-01
+12635,Backbeat,"Drama, Music",NULL,en,6.2,1994-04-01
+12665,Powder,"Drama, Fantasy, Science Fiction, Thriller",NULL,en,6.3,1995-10-27
+13552,"The Doom Generation","Action, Comedy, Crime, Drama",NULL,en,5.6,1995-10-27
+13595,Airheads,"Comedy, Crime, Music",NULL,en,5.8,1994-08-05
+13685,"Bottle Rocket","Comedy, Crime, Drama",NULL,en,6.8,1996-02-21
+13701,"Immortal Beloved","Drama, Music, Romance",NULL,en,6.9,1994-12-16
+13815,Fresh,"Crime, Drama, Thriller",NULL,en,7.6,1994-08-24
+13997,"Black Sheep",Comedy,NULL,en,6,1996-02-01
+14275,"Hoop Dreams",Documentary,NULL,en,7.7,1994-09-12
+14334,"The Secret of Roan Inish","Drama, Family, Fantasy",NULL,en,6.1,1994-01-01
+14522,"Black Beauty","Action, Adventure, Drama, Family",NULL,en,6.6,1994-07-29
+14819,Heavyweights,"Comedy, Family, Drama",NULL,en,6,1995-02-17
+15128,Speechless,"Comedy, Romance",NULL,en,5.5,1994-12-16
+15602,"Grumpier Old Men","Romance, Comedy",NULL,en,6.5,1995-12-22
+15730,"Love & Human Remains","Comedy, Drama",NULL,en,7,1993-05-20
+15765,"What's Love Got to Do with It","Drama, Music",NULL,en,6.9,1993-06-09
+15789,"A Goofy Movie","Romance, Animation, Family, Comedy, Adventure",NULL,en,6.7,1995-04-07
+16097,"House Party 3",Comedy,NULL,en,4.6,1994-01-01
+16295,"Higher Learning","Romance, Drama, Crime",NULL,en,6.4,1995-01-11
+16297,"With Honors","Comedy, Drama",NULL,en,6.1,1994-04-29
+16388,"The Brothers McMullen","Comedy, Drama, Romance",NULL,en,6.3,1995-08-09
+16420,Othello,Drama,NULL,en,7,1995-12-15
+16771,Barcelona,"Comedy, Drama, Romance",NULL,en,6.6,1994-07-29
+16934,"The Young Poisoner's Handbook","Comedy, Crime, Drama",NULL,en,6.9,1995-01-20
+17015,Persuasion,"Drama, Romance",NULL,en,7.4,1995-09-27
+17182,"Eye for an Eye","Drama, Thriller",NULL,en,5.8,1996-01-12
+17207,Houseguest,"Comedy, Family",NULL,en,6,1995-01-06
+17402,"Miami Rhapsody","Comedy, Romance",NULL,en,5.6,1995-01-27
+17414,"Dunston Checks In","Adventure, Comedy, Family",NULL,en,5.1,1996-01-12
+17447,Jeffrey,"Comedy, Drama, Romance",NULL,en,6.5,1995-08-18
+17961,L'Enfer,"Crime, Drama",NULL,fr,6.6,1994-02-16
+18069,"8 Seconds","Drama, Romance",NULL,en,7.2,1994-02-25
+18183,"Like Water for Chocolate","Drama, Romance",NULL,es,6.6,1992-04-16
+18215,"Boxing Helena","Drama, Romance",NULL,en,4.5,1993-06-18
+18220,"Poison Ivy II: Lily","Drama, Romance, Thriller",NULL,en,4.6,1996-01-16
+18242,"The Secret Adventures of Tom Thumb","Animation, Science Fiction",NULL,en,7.1,1993-12-10
+18256,"Castle Freak","Thriller, Drama, Horror, Mystery",NULL,en,5.8,1995-08-04
+18395,"Exit to Eden","Thriller, Comedy, Crime, Romance",NULL,en,4.3,1994-10-14
+18402,"Something to Talk About",Comedy,NULL,en,5.7,1995-08-04
+18551,"Flesh and Bone","Drama, Mystery, Romance",NULL,en,6.2,1993-11-05
+18620,"Go Fish","Drama, Romance",NULL,en,3.9,1994-06-10
+18658,"Clean Slate","Comedy, Thriller, Mystery",NULL,en,5.7,1994-05-06
+18713,"The Jerky Boys","Comedy, Crime",NULL,en,4.8,1995-02-03
+19092,"Above the Rim","Crime, Drama",NULL,en,6.7,1994-03-23
+19101,"A Little Princess","Drama, Family, Fantasy",NULL,en,7.4,1995-05-10
+19155,"Before the Rain","Drama, War",NULL,en,7.7,1994-06-09
+19176,"The Cowboy Way","Western, Action, Comedy",NULL,en,5.1,1994-06-03
+19326,"Jury Duty","Comedy, Drama",NULL,en,4,1995-04-12
+19760,"Two If by Sea","Comedy, Romance",NULL,en,4.5,1996-01-12
+19819,"Blue Chips",Drama,NULL,en,5.7,1994-02-18
+19855,"The War",Drama,NULL,en,6.3,1994-11-04
+20156,Exotica,"Drama, Mystery",NULL,en,6.5,1994-09-24
+20239,"Fear of a Black Hat",Comedy,NULL,en,5.8,1994-10-28
+20306,"Swimming with Sharks","Crime, Comedy",NULL,en,6.7,1994-09-10
+20649,Clockers,"Mystery, Crime, Drama",NULL,en,6.8,1995-09-15
+20927,"Bed of Roses","Drama, Romance",NULL,en,5.1,1996-01-26
+21032,Balto,"Family, Animation, Adventure",NULL,en,7.1,1995-12-22
+21183,Fluke,"Drama, Family, Fantasy",NULL,en,6.6,1995-06-02
+21450,Naked,"Comedy, Drama",NULL,en,7.5,1993-09-14
+22067,"Jason's Lyric","Crime, Drama, Romance",NULL,en,5.9,1994-09-28
+22279,"An Awfully Big Adventure","Romance, Drama, Comedy",NULL,en,6,1995-07-21
+22317,"Lightning Jack","Action, Comedy, Western",NULL,en,5.7,1994-03-11
+22586,"The Swan Princess",Animation,NULL,en,6.5,1994-11-18
+22625,"Circle of Friends","Drama, Family, Romance",NULL,en,6.5,1995-03-16
+23333,"Mrs. Parker and the Vicious Circle",Drama,NULL,en,6.3,1994-09-07
+24070,"Mixed Nuts","Comedy, Drama, Romance",NULL,en,5.2,1994-12-21
+24257,"The Endless Summer 2",Documentary,NULL,en,7.1,1994-06-03
+25066,"Tales from the Hood","Crime, Horror, Thriller",NULL,en,5.4,1995-05-24
+25296,"Pushing Hands","Comedy, Drama",NULL,zh,6.1,1992-02-01
+25440,"Widows' Peak","Comedy, Thriller, Mystery, Romance, Foreign",NULL,en,4.3,1994-05-13
+26141,"Fatal Instinct",Comedy,NULL,en,5.4,1993-10-29
+26203,Blink,"Mystery, Crime, Drama, Thriller",NULL,en,6.3,1994-01-26
+26258,Bushwhacked,"Adventure, Action, Comedy, Crime, Family",NULL,en,4.9,1995-08-04
+26261,"Cops & Robbersons","Action, Comedy, Family",NULL,en,5,1994-04-15
+26271,"Live Nude Girls",Comedy,NULL,en,4.7,1995-12-08
+26352,"A Low Down Dirty Shame","Action, Comedy, Crime",NULL,en,6,1994-11-23
+26391,"Cabin Boy",Comedy,NULL,en,4.9,1994-01-07
+26441,"The Big Green","Action, Adventure, Comedy, Family",NULL,en,5.2,1995-09-29
+26564,Crumb,Documentary,NULL,en,7.6,1994-09-10
+27303,Hideaway,"Drama, Thriller",NULL,en,5,1995-03-03
+27526,"The Crossing Guard","Drama, Thriller",NULL,en,6.1,1995-11-15
+27793,"The Neverending Story III: Escape from Fantasia",Fantasy,NULL,en,4.4,1994-10-26
+27985,"Far from Home: The Adventures of Yellow Dog","Action, Adventure, Drama, Family",NULL,en,5.6,1995-01-13
+27993,"Senior Trip",Comedy,NULL,en,5.7,1995-09-08
+28033,"Stuart Saves His Family","Comedy, Drama",NULL,en,5,1995-04-12
+28313,"Losing Isaiah",Drama,NULL,en,6.4,1995-03-17
+28387,"Kicking and Screaming","Comedy, Drama, Romance",NULL,en,7,1995-10-06
+28732,"Fall Time","Action, Adventure, Crime, Drama, Thriller",NULL,en,6.3,1995-05-13
+29444,S.F.W.,"Comedy, Drama",NULL,en,6.1,1994-09-15
+29918,Lassie,"Action, Adventure, Drama, Family",NULL,en,6.1,1994-07-22
+29973,Cobb,Drama,NULL,en,6.1,1994-12-02
+30157,Amateur,"Crime, Comedy, Drama, Thriller",NULL,en,6.5,1994-08-05
+30304,"Picture Bride","Drama, History",NULL,en,7.4,1995-05-05
+30765,"The Amazing Panda Adventure","Action, Adventure, Drama, Family",NULL,en,5,1995-08-25
+31174,"Richard III","Drama, War",NULL,en,6.9,1995-12-29
+31357,"Waiting to Exhale","Comedy, Drama, Romance",NULL,en,6.1,1995-12-22
+31439,"To Live","Drama, Romance, War",NULL,zh,7.7,1994-06-30
+31611,"White Man's Burden",Drama,NULL,en,5.1,1995-12-01
+31642,"Heaven & Earth","History, War, Action, Drama",NULL,en,6.4,1993-12-24
+31643,"Jimmy Hollywood",Comedy,NULL,en,4.6,1994-03-30
+31911,"Mr. Wonderful","Comedy, Romance",NULL,en,5.5,1993-10-15
+32119,"The Boys of St. Vincent",Drama,NULL,en,7,1992-12-06
+32325,"Mi Vida Loca","Crime, Drama",NULL,en,5.7,1994-06-08
+32502,Coldblooded,"Action, Comedy",NULL,en,6.7,1995-09-15
+32622,Angela,"Comedy, Drama",NULL,en,5.6,1995-01-01
+32631,"The Hunted","Action, Thriller",NULL,en,6,1995-02-24
+32636,"Vanya on 42nd Street","Drama, Romance",NULL,en,6.1,1994-09-13
+32646,Safe,Drama,NULL,en,7.2,1995-06-23
+33542,"Rumble in the Bronx","Crime, Action, Comedy, Thriller",NULL,cn,6.5,1995-01-30
+33689,"It Takes Two","Comedy, Family, Romance",NULL,en,6.1,1995-11-17
+34024,"King of the Hill",Drama,NULL,en,6.4,1993-08-20
+34152,Crooklyn,"Comedy, Drama",NULL,en,6.7,1994-05-13
+34444,"Even Cowgirls Get the Blues","Western, Drama, Comedy, Romance",NULL,en,4.2,1994-05-13
+34574,Nadja,"Horror, Thriller",NULL,en,5.9,1994-09-13
+34615,"Cry, the Beloved Country",Drama,NULL,en,6.7,1995-12-15
+34996,"The Addiction","Drama, Horror",NULL,en,6.4,1995-01-10
+35196,Restoration,"Drama, Romance",NULL,en,6.3,1995-12-29
+35588,"Geronimo: An American Legend","History, Action, Drama, Western",NULL,en,5.9,1993-12-10
+36141,"The Underneath","Thriller, Crime",NULL,en,5.6,1995-04-28
+36196,"Party Girl",Comedy,NULL,en,5.8,1995-06-09
+36357,Rent-a-Kid,"Comedy, Family, TV Movie",NULL,en,5.1,1995-01-01
+36593,"The Naked Gun 33⅓: The Final Insult","Comedy, Crime",NULL,en,6.4,1994-03-18
+36614,"The Sum of Us","Comedy, Drama, Romance",NULL,en,6,1994-07-12
+36834,"Total Eclipse","Drama, Romance",NULL,en,6.5,1995-11-02
+36929,"Big Bully","Comedy, Family",NULL,en,3.9,1996-01-26
+36955,"True Lies","Action, Thriller",NULL,en,6.8,1994-07-14
+37108,"A Kid in King Arthur's Court","Adventure, Fantasy, Comedy, Science Fiction, Family",NULL,en,4.3,1995-08-11
+37141,"The Babysitter","Drama, Thriller",NULL,en,4.7,1995-10-17
+37233,"The Firm","Drama, Mystery, Thriller",NULL,en,6.6,1993-06-30
+37557,"Shanghai Triad","Drama, Crime",NULL,zh,6.5,1995-04-30
+37975,"The Star Maker","Drama, Romance",NULL,it,6.8,1995-09-21
+38129,"Martin Lawrence: You So Crazy",Comedy,NULL,en,4.5,1994-04-27
+38722,"My Family","Comedy, Drama",NULL,en,7,1995-05-03
+39310,"New Jersey Drive","Crime, Drama",NULL,en,6.9,1995-04-19
+39428,"The Neon Bible",Drama,NULL,en,7.2,1995-08-23
+39953,"Boys Life: Three Stories of Love, Lust, and Liberation",Drama,NULL,en,2,1994-09-30
+40154,"A Midwinter's Tale",Comedy,NULL,en,7.5,1995-12-01
+40156,Priest,"Drama, Romance",NULL,en,6.4,1994-01-01
+40480,"Bad Company","Action, Crime, Romance, Thriller",NULL,en,4.9,1995-01-20
+40490,"Man of the House","Action, Comedy, Family",NULL,en,5.1,1995-03-03
+40628,"Two Bits","Drama, Family",NULL,en,5.4,1995-10-22
+41006,"A Good Man in Africa","Comedy, Drama",NULL,en,5.2,1994-07-14
+41478,Panther,Drama,NULL,en,6.4,1995-11-10
+41579,"Getting Even with Dad","Family, Comedy, Crime",NULL,en,4.5,1994-06-17
+41580,"Colonel Chabert",Drama,NULL,fr,5.9,1994-01-01
+41588,"The New Age","Comedy, Drama",NULL,en,4.8,1994-09-16
+41647,"The Wonderful, Horrible Life of Leni Riefenstahl","Documentary, Foreign",NULL,en,7.3,1993-09-11
+42580,"Life With Mikey","Comedy, Family",NULL,en,5.1,1993-06-04
+42981,"Frank and Ollie",Documentary,NULL,en,7.5,1995-10-20
+43475,"Gumby: The Movie","Fantasy, Animation, Science Fiction, Family",NULL,en,5,1995-12-01
+43566,"Before and After","Drama, Thriller",NULL,en,5.8,1996-02-23
+43612,"Happiness Is in the Field",Comedy,NULL,en,7,1995-01-31
+43742,"Love Affair","Drama, Romance",NULL,en,4.3,1994-10-21
+44284,"The Silences of the Palace",Drama,NULL,ar,4.3,1994-09-30
+45325,"Tom and Huck","Action, Adventure, Drama, Family",NULL,en,5.4,1995-12-22
+45549,Shopping,"Action, Adventure, Drama, Science Fiction, Thriller",NULL,en,5.6,1994-12-06
+46094,"The Air Up There","Comedy, Family",NULL,en,5.1,1994-01-07
+46785,"The White Balloon","Family, Drama",NULL,fa,7.5,1995-01-01
+46797,"Tom & Viv","Drama, Romance",NULL,en,5.8,1994-04-15
+46924,"Being Human","Drama, Comedy, Fantasy",NULL,en,5,1994-05-06
+47018,Carrington,"History, Drama, Romance",NULL,en,6.4,1995-11-08
+47475,"Mr. Wrong","Comedy, Romance",NULL,en,3.3,1996-02-16
+47504,"Little Odessa","Action, Drama",NULL,en,6.4,1994-10-27
+47608,"Mad Love","Drama, Family, Romance",NULL,en,5.5,1995-05-26
+47867,Gordy,"Drama, Family, Fantasy",NULL,en,3,1995-05-12
+47939,"Three Wishes","Drama, Fantasy",NULL,en,6.1,1995-10-27
+48287,"The Baby-Sitters Club","Comedy, Drama, Family",NULL,en,5.3,1995-08-18
+48750,"Les Miserables","Drama, History",NULL,fr,6.6,1995-03-22
+48787,"Mute Witness","Thriller, Foreign",NULL,en,6.4,1995-09-28
+48992,"I Like It Like That","Comedy, Drama, Romance",NULL,en,6.3,1994-10-14
+49133,Lamerica,"Drama, Foreign",NULL,it,7.7,1994-01-01
+49299,"Dangerous Game",Drama,NULL,en,5.4,1993-11-19
+49803,"Safe Passage",Drama,NULL,en,4.9,1994-12-01
+49805,"The Browning Version",Drama,NULL,en,6,1994-10-12
+49980,"Ladybird Ladybird",Drama,NULL,en,7.4,1994-02-18
+50463,"The Favor","Drama, Comedy, Romance",NULL,en,3.3,1994-04-29
+50797,"Burnt by the Sun",Drama,NULL,ru,6.7,1994-05-01
+51352,"Anne Frank Remembered","Documentary, Drama, Foreign",NULL,en,7.3,1995-06-08
+52038,"A Man of No Importance","Comedy, Drama",NULL,en,6.5,1994-12-22
+52856,"Unstrung Heroes","Comedy, Drama, Family",NULL,en,6.4,1995-09-15
+55475,"Nueba Yol","Comedy, Drama, Romance",NULL,es,5.5,1995-08-16
+55731,"Race the Sun","Action, Adventure, Comedy, Drama, Family",NULL,en,5.2,1996-03-22
+56088,"The Show",Documentary,NULL,en,5.3,1995-08-25
+56428,"Beyond Bedlam",Horror,NULL,en,4,1994-04-22
+57834,"Blue Sky","Drama, Romance",NULL,en,6.1,1994-09-16
+58372,Reckless,"Fantasy, Comedy, Drama",NULL,en,10,1995-11-17
+59930,"The Inkwell","Comedy, Drama, Romance",NULL,en,3.9,1994-04-22
+60855,"Double Happiness","Comedy, Romance",NULL,en,5.5,1994-09-07
+61548,"The Journey of August King",Drama,NULL,en,6.7,1995-09-14
+61813,"Dream Man",Thriller,NULL,en,2.5,1995-01-01
+62488,"Destiny Turns on the Radio","Crime, Comedy, Fantasy",NULL,it,5.3,1995-04-28
+63020,"The Perez Family","Comedy, Drama, Romance",NULL,en,6.6,1995-05-12
+63076,"Heidi Fleiss: Hollywood Madam",Documentary,NULL,en,6.8,1995-12-27
+63105,"Nemesis 2 - Nebula","Science Fiction, Action, Thriller",NULL,en,4.6,1995-09-26
+65796,"Wild Bill","Action, Western",NULL,en,5.9,1995-12-01
+68274,"Moonlight and Valentino","Comedy, Drama, Romance",NULL,en,5.6,1995-09-29
+71754,"Margaret's Museum",Drama,NULL,en,7.5,1995-09-13
+72031,"The Glass Shield","Drama, Action, Thriller, Crime",NULL,en,5.4,1994-09-16
+73067,"Frankie Starlight","Drama, Romance, War",NULL,it,5.4,1995-11-22
+75555,"The Fear","Horror, Thriller",NULL,en,3.4,1995-01-20
+77350,Unzipped,Documentary,NULL,en,6,1995-08-11
+78406,"Steal Big Steal Little","Comedy, Drama",NULL,en,5.1,1995-09-29
+78802,"Wings of Courage","Romance, Adventure",NULL,fr,6.8,1996-09-18
+79593,"The Tie That Binds",Thriller,NULL,en,4.6,1995-09-08
+83718,"What Happened Was...","Thriller, Comedy, Drama, Romance",NULL,en,7,1994-09-09
+87078,Suture,"Drama, Thriller",NULL,en,6,1993-09-14
+87729,"Jefferson in Paris","Drama, Romance",NULL,en,5.2,1995-03-31
+89333,Catwalk,Documentary,NULL,en,7,1995-12-08
+92769,"Relative Fear","Horror, Drama",NULL,en,4.7,1995-10-03
+95963,"The Walking Dead","Drama, War",NULL,en,6.6,1995-02-24
+96357,"Headless Body in Topless Bar",Crime,NULL,en,0,1995-05-20
+97406,Georgia,Drama,NULL,en,6.1,1995-05-19
+99040,"The Confessional","Thriller, Drama, Mystery",NULL,fr,6.5,1995-09-29
+106143,"I'll Do Anything","Comedy, Drama",NULL,en,5.7,1994-02-04
+109560,"New York Cop","Action, Thriller, Crime, Drama",NULL,en,0,1993-08-14
+110972,"Pie in the Sky","Comedy, Romance",NULL,en,7,1996-02-09
+117164,"Guardian Angel","Action, Thriller, Drama",NULL,en,6.3,1994-11-22
+117553,"Calendar Girl","Drama, Comedy",NULL,en,3.7,1993-09-03
+123360,"From the Journals of Jean Seberg",Documentary,NULL,en,6.5,1995-09-08
+124057,"Kids of the Round Table",NULL,NULL,en,3,1997-07-08
+124626,"Nico Icon",Documentary,NULL,en,7.3,1995-02-18
+124636,"Sonic Outlaws","Music, Documentary",NULL,en,0,1995-08-01
+124639,Target,NULL,NULL,en,0,1995-08-01
+131957,"Nina Takes a Lover","Drama, Romance",NULL,en,7.4,1995-03-03
+139405,"Across the Sea of Time","Adventure, History, Drama, Family",NULL,en,3.5,1995-10-20
+139408,"The Stars Fell on Henrietta",Drama,NULL,en,6.6,1995-09-15
+146599,"Once Upon a Time... When We Were Colored","Romance, Drama",NULL,en,4.5,1996-01-26
+159185,"Red Firecracker, Green Firecracker",Drama,NULL,zh,7,1994-10-14
+161495,Roommates,"Drama, Comedy",NULL,sv,6.4,1995-03-01
+171857,"Federal Hill",NULL,NULL,en,5,1995-02-24
+172923,"Dos Crímenes",NULL,NULL,en,5,1995-05-26
+188588,"Last Summer in the Hamptons",NULL,NULL,en,0,1995-11-22
+203119,"Open Season",Comedy,NULL,en,0,1996-05-03
+226229,Mirage,"Action, Thriller",NULL,en,4,1995-11-21
+249882,"Virgin Mary",Drama,NULL,en,7,1995-10-12
+259209,"Feast of July","Drama, Crime",NULL,en,0,1995-10-12
+267188,"Desert Winds",NULL,NULL,en,0,1997-12-31
+278939,"Girl in the Cadillac","Romance, Adventure, Crime, Drama",NULL,en,10,1995-10-24
+290157,"Jupiter's Wife",NULL,NULL,en,0,1995-01-01
+291731,Homage,"Thriller, Drama",NULL,en,0,1995-05-03
+316098,"Brother Minister: The Assassination of Malcolm X",Documentary,NULL,en,4,1995-03-01

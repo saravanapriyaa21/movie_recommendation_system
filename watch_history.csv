@@ -1,0 +1,538 @@
+user_id,movie_id,movie_name,rating
+1,5,"Four Rooms",4.5
+1,6,"Judgment Night",2
+1,11,"Star Wars",7
+1,13,"Forrest Gump",6
+1,63,"Twelve Monkeys",NULL
+1,76,"Before Sunrise",NULL
+1,101,"Leon: The Professional",5
+1,103,"Taxi Driver",NULL
+1,108,"Three Colors: Blue",6
+1,109,"Three Colors: White",1
+2,110,"Three Colors: Red",NULL
+2,178,"Blown Away",NULL
+2,193,"Star Trek: Generations",NULL
+2,197,Braveheart,NULL
+2,236,"Muriel's Wedding",NULL
+2,241,"Natural Born Killers",1
+2,278,"The Shawshank Redemption",3
+2,281,"Strange Days",NULL
+2,306,"Beverly Hills Cop III",NULL
+2,315,"Faster, Pussycat! Kill! Kill!",NULL
+3,329,"Jurassic Park",9.5
+3,397,"French Kiss",NULL
+3,400,"Things to Do in Denver When You're Dead",NULL
+3,406,"La Haine",7
+3,414,"Batman Forever",NULL
+3,451,"Leaving Las Vegas",1
+3,507,"Killing Zoe",NULL
+3,522,"Ed Wood",NULL
+3,524,Casino,NULL
+3,527,"Once Were Warriors",NULL
+4,568,"Apollo 13",NULL
+4,577,"To Die For",NULL
+4,628,"Interview with the Vampire",NULL
+4,629,"The Usual Suspects",NULL
+4,649,"Belle de Jour",NULL
+4,680,"Pulp Fiction",4
+4,687,"Dead Man Walking",NULL
+4,688,"The Bridges of Madison County",4
+4,710,GoldenEye,NULL
+4,712,"Four Weddings and a Funeral",NULL
+5,755,"From Dusk Till Dawn",NULL
+5,788,"Mrs. Doubtfire",NULL
+5,807,Se7en,NULL
+5,854,"The Mask",7
+5,862,"Toy Story",NULL
+5,880,"Antonia's Line",NULL
+5,888,"The Flintstones",5
+5,902,"The City of Lost Children",NULL
+5,949,Heat,NULL
+5,1024,"Heavenly Creatures",NULL
+6,1408,"Cutthroat Island",NULL
+6,1413,"M. Butterfly",3
+6,1572,"Die Hard: With a Vengeance",NULL
+6,1587,"What's Eating Gilbert Grape",NULL
+6,1607,"A Bronx Tale",4
+6,1634,"Free Willy",10
+6,1637,Speed,6
+6,1642,"The Net",NULL
+6,1689,"Little Buddha",NULL
+6,1710,Copycat,NULL
+7,1775,"Canadian Bacon",6
+7,1873,"Beyond Rangoon",5
+7,1909,"Don Juan DeMarco",8
+7,1945,Nell,NULL
+7,2019,"Hard Target",NULL
+7,2045,Unforgettable,5
+7,2054,"Mr. Holland's Opus",10
+7,2064,"While You Were Sleeping",NULL
+7,2074,"Flirting with Disaster",NULL
+7,2086,"Nick of Time",10
+8,2087,"The Getaway",NULL
+8,2124,"Color of Night",NULL
+8,2164,Stargate,3
+8,2246,Malice,NULL
+8,2259,"The House of the Spirits",NULL
+8,2292,Clerks,NULL
+8,2293,Mallrats,NULL
+8,2307,"A Pyromaniac's Love Story",7
+8,2320,"Executive Decision",NULL
+8,2625,"Mr. Jones",8
+9,2636,"The Specialist",6
+9,2654,"In the Mouth of Madness",NULL
+9,2758,"Addams Family Values",NULL
+9,2759,"The Adventures of Priscilla, Queen of the Desert",10
+9,2788,"Reality Bites",NULL
+9,3036,"Mary Shelley's Frankenstein",NULL
+9,3049,"Ace Ventura: Pet Detective",9
+9,3512,"Under Siege 2: Dark Territory",NULL
+9,3586,Prêt-à-Porter,NULL
+9,4476,"Legends of the Fall",NULL
+10,4482,"French Twist",4
+10,4584,"Sense and Sensibility",NULL
+10,4722,"Body Snatchers",NULL
+10,4916,"Guilty as Sin",NULL
+10,4954,"Drop Zone",NULL
+10,5503,"The Fugitive",8
+10,5757,"Man of the Year",NULL
+10,5879,"In the Realm of the Senses",2
+10,5894,"Blue in the Face",NULL
+10,5967,"The Umbrellas of Cherbourg",NULL
+11,6071,"Kiss of Death",NULL
+11,6075,"Carlito's Way",NULL
+11,6280,Junior,9
+11,6520,"First Knight",7
+11,6715,"The Cure",NULL
+11,6950,Outbreak,6
+11,7984,"In the Name of the Father",NULL
+11,8011,"Highlander: The Final Dimension",NULL
+11,8012,"Get Shorty",9
+11,8068,Desperado,9
+12,8391,"When Night Is Falling",NULL
+12,8438,"Murder in the First",NULL
+12,8447,"Angels and Insects",7
+12,8467,"Dumb and Dumber",NULL
+12,8512,"Devil in a Blue Dress",NULL
+12,8587,"The Lion King",NULL
+12,8831,Timecop,NULL
+12,8839,Casper,NULL
+12,8844,Jumanji,9
+12,8963,"Crimson Tide",4
+13,8973,"Lord of Illusions",NULL
+13,8984,Disclosure,NULL
+13,8986,"Milk Money",10
+13,8987,"The River Wild",NULL
+13,9024,"For Love or Money",10
+13,9058,"Only You",NULL
+13,9059,"Tales from the Crypt: Demon Knight",NULL
+13,9061,"Just Cause",9
+13,9067,"Tank Girl",NULL
+13,9070,"Mighty Morphin Power Rangers: The Movie",NULL
+14,9071,"Living in Oblivion",NULL
+14,9073,"Free Willy 2 - The Adventure Home",NULL
+14,9087,"The American President",6
+14,9089,"Home for the Holidays",NULL
+14,9090,"To Wong Foo, Thanks for Everything! Julie Newmar",6
+14,9091,"Sudden Death",NULL
+14,9095,"Mary Reilly",NULL
+14,9101,"Down Periscope",NULL
+14,9102,Screamers,3
+14,9208,"Broken Arrow",3
+15,9255,"Hot Shots! Part Deux",NULL
+15,9263,"Now and Then",2
+15,9271,Virtuosity,NULL
+15,9273,"Ace Ventura: When Nature Calls",NULL
+15,9283,"Beautiful Girls",9
+15,9302,"Up Close & Personal",NULL
+15,9312,"Mortal Kombat",NULL
+15,9331,"Clear and Present Danger",NULL
+15,9344,Kids,NULL
+15,9348,Species,NULL
+16,9350,Cliffhanger,1
+16,9359,Maverick,NULL
+16,9382,"Boys on the Side",1
+16,9386,"In the Line of Fire",NULL
+16,9409,"Another Stakeout",NULL
+16,9482,"Judge Dredd",NULL
+16,9495,"The Crow",7
+16,9516,"Menace II Society",NULL
+16,9536,Bio-Dome,10
+16,9560,"A Walk in the Clouds",3
+17,9571,"Dazed and Confused",NULL
+17,9587,"Little Women",1
+17,9593,"Last Action Hero",NULL
+17,9598,Babe,NULL
+17,9603,Clueless,NULL
+17,9612,Coneheads,5
+17,9614,"Happy Gilmore",NULL
+17,9623,"The Juror",NULL
+17,9691,Assassins,NULL
+17,9737,"Bad Boys",NULL
+18,9739,"Demolition Man",NULL
+18,9804,Waterworld,9
+18,9886,"Johnny Mnemonic",3
+18,9905,"Shallow Grave",1
+18,9909,"Dangerous Minds",10
+18,10149,Smoke,8
+18,10324,"If Lucy Fell",NULL
+18,10329,Congo,NULL
+18,10395,Wolf,2
+18,10427,"Red Rock West",NULL
+19,10428,Hackers,NULL
+19,10436,"The Age of Innocence",NULL
+19,10440,"Manhattan Murder Mystery",3
+19,10443,Fearless,NULL
+19,10447,"No Escape",NULL
+19,10449,"When a Man Loves a Woman",NULL
+19,10451,"Eat Drink Man Woman",NULL
+19,10452,"Queen Margot",4
+19,10464,"Corrina, Corrina",9
+19,10474,"The Basketball Diaries",NULL
+20,10497,"Bitter Moon",NULL
+20,10502,"The Man without a Face",NULL
+20,10510,"Miracle on 34th Street",NULL
+20,10525,"Forget Paris",NULL
+20,10530,Pocahontas,NULL
+20,10531,"Death and the Maiden",NULL
+20,10533,"The Scarlet Letter",NULL
+20,10534,"White Squall",NULL
+20,10607,"Don't Be a Menace to South Central While Drinking Your Juice in the Hood",NULL
+20,10612,"The Englishman Who Went Up a Hill But Came Down a Mountain",NULL
+21,10634,Friday,NULL
+21,10660,"It Could Happen to You",NULL
+21,10714,"The Jungle Book",6
+21,10731,"The Client",NULL
+21,10802,Showgirls,8
+21,10858,Nixon,NULL
+21,10874,"Muppet Treasure Island",8
+21,10879,"I Love Trouble",2
+21,10909,Kalifornia,NULL
+21,10954,Farinelli,5
+22,10997,"Farewell My Concubine",8
+22,11000,"The Birdcage",5
+22,11008,"Major Payne",NULL
+22,11010,"The Postman",NULL
+22,11011,"Ri¢hie Ri¢h",10
+22,11017,"Billy Madison",NULL
+22,11041,"The Beverly Hillbillies",NULL
+22,11062,"City Hall",NULL
+22,11066,Boomerang,NULL
+22,11104,"Chungking Express",NULL
+23,11231,"The Next Karate Kid",NULL
+23,11310,"City Slickers II: The Legend of Curly's Gold",NULL
+23,11318,"The Madness of King George",4
+23,11359,"The Indian in the Cupboard",NULL
+23,11381,"Tommy Boy",9
+23,11382,"Bullets Over Broadway",NULL
+23,11395,"The Santa Clause",NULL
+23,11443,"Dead Presidents",10
+23,11448,"Mighty Aphrodite",NULL
+23,11450,"Quiz Show",NULL
+24,11472,"Nine Months",1
+24,11517,"Money Train",8
+24,11525,"Lawnmower Man 2: Beyond Cyberspace",NULL
+24,11566,Dave,NULL
+24,11593,"Nobody's Fool",7
+24,11596,"New Nightmare",NULL
+24,11667,"Street Fighter",3
+24,11777,I.Q.,NULL
+24,11780,"Rob Roy",NULL
+24,11853,"Bad Girls",NULL
+25,11859,"Fair Game",NULL
+25,11860,Sabrina,NULL
+25,11861,"How To Make An American Quilt",NULL
+25,11862,"Father of the Bride Part II",10
+25,11863,Jade,NULL
+25,11907,"Nobody Loves Me",7
+25,11929,"Dolores Claiborne",NULL
+25,11934,"The Hudsucker Proxy",NULL
+25,11971,"Much Ado About Nothing",NULL
+25,11980,"The Prophecy",NULL
+26,12106,"The Quick and the Dead",NULL
+26,12110,"Dracula: Dead and Loving It",NULL
+26,12121,"Made in America",NULL
+26,12122,"Village of the Damned",NULL
+26,12158,"Vampire in Brooklyn",5
+26,12160,"Wyatt Earp",NULL
+26,12280,"The Paper",NULL
+26,12475,"In the Army Now",6
+26,12527,"Strawberry and Chocolate",NULL
+26,12635,Backbeat,5
+27,12665,Powder,1
+27,13552,"The Doom Generation",6
+27,13595,Airheads,7
+27,13685,"Bottle Rocket",NULL
+27,13701,"Immortal Beloved",9
+27,13815,Fresh,10
+27,13997,"Black Sheep",NULL
+27,14275,"Hoop Dreams",NULL
+27,14334,"The Secret of Roan Inish",NULL
+27,14522,"Black Beauty",NULL
+28,14819,Heavyweights,NULL
+28,15128,Speechless,NULL
+28,15602,"Grumpier Old Men",NULL
+28,15730,"Love & Human Remains",6
+28,15765,"What's Love Got to Do with It",8
+28,15789,"A Goofy Movie",NULL
+28,16097,"House Party 3",5
+28,16295,"Higher Learning",9
+28,16297,"With Honors",NULL
+28,16388,"The Brothers McMullen",NULL
+29,16420,Othello,NULL
+29,16771,Barcelona,8
+29,16934,"The Young Poisoner's Handbook",NULL
+29,17015,Persuasion,5
+29,17182,"Eye for an Eye",NULL
+29,17207,Houseguest,NULL
+29,17402,"Miami Rhapsody",10
+29,17414,"Dunston Checks In",NULL
+29,17447,Jeffrey,NULL
+29,17961,L'Enfer,7
+30,18069,"8 Seconds",NULL
+30,18183,"Like Water for Chocolate",NULL
+30,18215,"Boxing Helena",6
+30,18220,"Poison Ivy II: Lily",10
+30,18242,"The Secret Adventures of Tom Thumb",NULL
+30,18256,"Castle Freak",NULL
+30,18395,"Exit to Eden",6
+30,18402,"Something to Talk About",NULL
+30,18551,"Flesh and Bone",5
+30,18620,"Go Fish",NULL
+31,18658,"Clean Slate",NULL
+31,18713,"The Jerky Boys",NULL
+31,19092,"Above the Rim",NULL
+31,19101,"A Little Princess",3
+31,19155,"Before the Rain",NULL
+31,19176,"The Cowboy Way",1
+31,19326,"Jury Duty",5
+31,19760,"Two If by Sea",NULL
+31,19819,"Blue Chips",NULL
+31,19855,"The War",2
+32,20156,Exotica,NULL
+32,20239,"Fear of a Black Hat",7
+32,20306,"Swimming with Sharks",NULL
+32,20649,Clockers,NULL
+32,20927,"Bed of Roses",NULL
+32,21032,Balto,8
+32,21183,Fluke,NULL
+32,21450,Naked,NULL
+32,22067,"Jason's Lyric",NULL
+32,22279,"An Awfully Big Adventure",5
+33,22317,"Lightning Jack",NULL
+33,22586,"The Swan Princess",1
+33,22625,"Circle of Friends",NULL
+33,23333,"Mrs. Parker and the Vicious Circle",NULL
+33,24070,"Mixed Nuts",NULL
+33,24257,"The Endless Summer 2",5
+33,25066,"Tales from the Hood",NULL
+33,25296,"Pushing Hands",NULL
+33,25440,"Widows' Peak",NULL
+33,26141,"Fatal Instinct",NULL
+34,26203,Blink,3
+34,26258,Bushwhacked,10
+34,26261,"Cops & Robbersons",NULL
+34,26271,"Live Nude Girls",NULL
+34,26352,"A Low Down Dirty Shame",NULL
+34,26391,"Cabin Boy",NULL
+34,26441,"The Big Green",NULL
+34,26564,Crumb,NULL
+34,27303,Hideaway,4
+34,27526,"The Crossing Guard",NULL
+35,27793,"The Neverending Story III: Escape from Fantasia",NULL
+35,27985,"Far from Home: The Adventures of Yellow Dog",NULL
+35,27993,"Senior Trip",8
+35,28033,"Stuart Saves His Family",8.5
+35,28313,"Losing Isaiah",NULL
+35,28387,"Kicking and Screaming",5
+35,28732,"Fall Time",NULL
+35,29444,S.F.W.,NULL
+35,29918,Lassie,9
+35,29973,Cobb,NULL
+36,30157,Amateur,NULL
+36,30304,"Picture Bride",NULL
+36,30765,"The Amazing Panda Adventure",NULL
+36,31174,"Richard III",1
+36,31357,"Waiting to Exhale",1
+36,31439,"To Live",1
+36,31611,"White Man's Burden",NULL
+36,31642,"Heaven & Earth",NULL
+36,31643,"Jimmy Hollywood",7
+36,31911,"Mr. Wonderful",NULL
+37,32119,"The Boys of St. Vincent",NULL
+37,32325,"Mi Vida Loca",NULL
+37,32502,Coldblooded,NULL
+37,32622,Angela,NULL
+37,32631,"The Hunted",NULL
+37,32636,"Vanya on 42nd Street",NULL
+37,32646,Safe,NULL
+37,33542,"Rumble in the Bronx",NULL
+37,33689,"It Takes Two",NULL
+37,34024,"King of the Hill",7
+38,34152,Crooklyn,NULL
+38,34444,"Even Cowgirls Get the Blues",NULL
+38,34574,Nadja,2
+38,34615,"Cry, the Beloved Country",NULL
+38,34996,"The Addiction",8
+38,35196,Restoration,NULL
+38,35588,"Geronimo: An American Legend",9.5
+38,36141,"The Underneath",NULL
+38,36196,"Party Girl",NULL
+38,36357,Rent-a-Kid,NULL
+39,36593,"The Naked Gun 33⅓: The Final Insult",NULL
+39,36614,"The Sum of Us",NULL
+39,36834,"Total Eclipse",NULL
+39,36929,"Big Bully",NULL
+39,36955,"True Lies",NULL
+39,37108,"A Kid in King Arthur's Court",5
+39,37141,"The Babysitter",9
+39,37233,"The Firm",NULL
+39,37557,"Shanghai Triad",7
+39,37975,"The Star Maker",2
+40,38129,"Martin Lawrence: You So Crazy",NULL
+40,38722,"My Family",NULL
+40,39310,"New Jersey Drive",NULL
+40,39428,"The Neon Bible",NULL
+40,39953,"Boys Life: Three Stories of Love, Lust, and Liberation",NULL
+40,40154,"A Midwinter's Tale",NULL
+40,40156,Priest,NULL
+40,40480,"Bad Company",NULL
+40,40490,"Man of the House",NULL
+40,40628,"Two Bits",NULL
+41,41006,"A Good Man in Africa",NULL
+41,41478,Panther,NULL
+41,41579,"Getting Even with Dad",7
+41,41580,"Colonel Chabert",NULL
+41,41588,"The New Age",NULL
+41,41647,"The Wonderful, Horrible Life of Leni Riefenstahl",7
+41,42580,"Life With Mikey",NULL
+41,42981,"Frank and Ollie",3
+41,43475,"Gumby: The Movie",NULL
+41,43566,"Before and After",3
+42,43612,"Happiness Is in the Field",NULL
+42,43742,"Love Affair",NULL
+42,44284,"The Silences of the Palace",NULL
+42,45325,"Tom and Huck",NULL
+42,45549,Shopping,NULL
+42,46094,"The Air Up There",4
+42,46785,"The White Balloon",NULL
+42,46797,"Tom & Viv",NULL
+42,46924,"Being Human",NULL
+42,47018,Carrington,NULL
+43,47475,"Mr. Wrong",NULL
+43,47504,"Little Odessa",10
+43,47608,"Mad Love",2
+43,47867,Gordy,NULL
+43,47939,"Three Wishes",NULL
+43,48287,"The Baby-Sitters Club",NULL
+43,48750,"Les Miserables",NULL
+43,48787,"Mute Witness",NULL
+43,48992,"I Like It Like That",1
+43,49133,Lamerica,NULL
+44,49299,"Dangerous Game",NULL
+44,49803,"Safe Passage",NULL
+44,49805,"The Browning Version",NULL
+44,49980,"Ladybird Ladybird",NULL
+44,50463,"The Favor",NULL
+44,50797,"Burnt by the Sun",NULL
+44,51352,"Anne Frank Remembered",NULL
+44,52038,"A Man of No Importance",3
+44,52856,"Unstrung Heroes",NULL
+44,55475,"Nueba Yol",10
+45,55731,"Race the Sun",NULL
+45,56088,"The Show",NULL
+45,56428,"Beyond Bedlam",NULL
+45,57834,"Blue Sky",NULL
+45,58372,Reckless,NULL
+45,59930,"The Inkwell",NULL
+45,60855,"Double Happiness",NULL
+45,61548,"The Journey of August King",NULL
+45,61813,"Dream Man",NULL
+45,62488,"Destiny Turns on the Radio",NULL
+46,63020,"The Perez Family",1
+46,63076,"Heidi Fleiss: Hollywood Madam",NULL
+46,63105,"Nemesis 2 - Nebula",NULL
+46,65796,"Wild Bill",NULL
+46,68274,"Moonlight and Valentino",4
+46,71754,"Margaret's Museum",NULL
+46,72031,"The Glass Shield",NULL
+46,73067,"Frankie Starlight",NULL
+46,75555,"The Fear",NULL
+46,77350,Unzipped,NULL
+47,78406,"Steal Big Steal Little",NULL
+47,78802,"Wings of Courage",NULL
+47,79593,"The Tie That Binds",NULL
+47,83718,"What Happened Was...",NULL
+47,87078,Suture,3
+47,87729,"Jefferson in Paris",3
+47,89333,Catwalk,NULL
+47,92769,"Relative Fear",NULL
+47,95963,"The Walking Dead",NULL
+47,96357,"Headless Body in Topless Bar",NULL
+48,97406,Georgia,10
+48,99040,"The Confessional",NULL
+48,106143,"I'll Do Anything",9
+48,109560,"New York Cop",NULL
+48,110972,"Pie in the Sky",4
+48,117164,"Guardian Angel",8
+48,117553,"Calendar Girl",NULL
+48,123360,"From the Journals of Jean Seberg",NULL
+48,124057,"Kids of the Round Table",NULL
+48,124626,"Nico Icon",3
+49,124636,"Sonic Outlaws",8
+49,124639,Target,NULL
+49,131957,"Nina Takes a Lover",NULL
+49,139405,"Across the Sea of Time",7
+49,139408,"The Stars Fell on Henrietta",NULL
+49,146599,"Once Upon a Time... When We Were Colored",NULL
+49,159185,"Red Firecracker, Green Firecracker",NULL
+49,161495,Roommates,NULL
+49,171857,"Federal Hill",NULL
+49,172923,"Dos Crímenes",NULL
+50,188588,"Last Summer in the Hamptons",NULL
+50,203119,"Open Season",NULL
+50,226229,Mirage,6
+50,249882,"Virgin Mary",9
+50,259209,"Feast of July",NULL
+50,267188,"Desert Winds",NULL
+50,278939,"Girl in the Cadillac",2
+50,290157,"Jupiter's Wife",4
+50,291731,Homage,NULL
+50,316098,"Brother Minister: The Assassination of Malcolm X",NULL
+34,5,"Four Rooms",4.5
+27,6,"Judgment Night",2
+45,11,"Star Wars",7
+23,13,"Forrest Gump",6
+44,63,"Twelve Monkeys",NULL
+2,76,"Before Sunrise",NULL
+9,4584,"Sense and Sensibility",NULL
+45,4722,"Body Snatchers",NULL
+85,4916,"Guilty as Sin",NULL
+53,4954,"Drop Zone",NULL
+65,5503,"The Fugitive",8
+78,5757,"Man of the Year",NULL
+32,5879,"In the Realm of the Senses",2
+94,5894,"Blue in the Face",NULL
+5,5967,"The Umbrellas of Cherbourg",NULL
+3,18551,"Flesh and Bone",5
+88,18620,"Go Fish",NULL
+76,18658,"Clean Slate",NULL
+45,18713,"The Jerky Boys",NULL
+3,278,"The Shawshank Redemption",NULL
+4,278,"The Shawshank Redemption",NULL
+6,278,"The Shawshank Redemption",NULL
+9,278,"The Shawshank Redemption",NULL
+11,278,"The Shawshank Redemption",NULL
+5,680,"Pulp Fiction",NULL
+5,8447,"Angels and Insects",NULL
+8,680,"Pulp Fiction",NULL
+8,8447,"Angels and Insects",NULL
+12,680,"Pulp Fiction",NULL
+12,8447,"Angels and Insects",NULL
+7,13,"Forrest Gump",NULL
+7,680,"Pulp Fiction",NULL
+15,13,"Forrest Gump",NULL
+15,680,"Pulp Fiction",NULL
+22,13,"Forrest Gump",NULL
+22,680,"Pulp Fiction",NULL
+
